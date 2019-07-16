@@ -110,6 +110,7 @@
 		C96BE50B1C661147005EABC7 = {
 			isa = PBXGroup;
 			children = (
+				9E10C1B622DE08F800F88B56 /* Package.swift */,
 				C96BE5171C661147005EABC7 /* Keychain */,
 				C96BE5231C661147005EABC7 /* KeychainTests */,
 				C96BE5161C661147005EABC7 /* Products */,
@@ -134,7 +135,6 @@
 			children = (
 				C96BE5311C661201005EABC7 /* Keychain.swift */,
 				C96BE52F1C66117C005EABC7 /* Supporting Files */,
-				9E10C1B622DE08F800F88B56 /* Package.swift */,
 			);
 			path = Keychain;
 			sourceTree = "<group>";
